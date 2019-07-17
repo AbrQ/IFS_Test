@@ -1,0 +1,8 @@
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\bin\Debug\Ifs.Application.TestOne.dll
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\bin\Debug\Ifs.Application.TestOne.pdb
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\obj\Debug\Ifs.Application.TestOne.csprojResolveAssemblyReference.cache
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\obj\Debug\Ifs.Application.TestOne.Properties.Resources.resources
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\obj\Debug\Ifs.Application.TestOne.csproj.GenerateResource.Cache
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\obj\Debug\Ifs.Application.TestOne.dll
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\obj\Debug\Ifs.Application.TestOne.pdb
+C:\Users\soft_asus\Desktop\Develop\workspace\trnent\source\trnent\client\Ifs.Application.TestOne\Ifs.Application.TestOne\obj\Debug\Ifs.Application.TestOne.frm.resources
